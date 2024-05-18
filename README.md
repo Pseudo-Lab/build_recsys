@@ -1,4 +1,3 @@
 ﻿# build_recsys
 
-### [team notion page](https://www.notion.so/chanrankim/Build-RecSys-9755b3ffc1124dadae47c6f735059beb?pvs=4)
-
+### [team notion page](https://www.notion.so/chanrankim/c9013228f63342b689a96e18c0db32c8?pvs=4)
